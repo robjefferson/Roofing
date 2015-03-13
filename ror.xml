@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.ashbridgeroofing.co.uk/</title>
+  <link>http://www.ashbridgeroofing.co.uk/</link>
+
+<item>
+     <link>http://www.ashbridgeroofing.co.uk/</link>
+     <title>Ashbridge Roofing</title>
+     <description>With over 30 years in the industry, we are one of the leading roofing contractors in Northern Lincolnshire.</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.ashbridgeroofing.co.uk/who-we-are.html</link>
+     <title>Ashbridge Roofing</title>
+     <description>Ashbridge Roofing</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.ashbridgeroofing.co.uk/what-we-do.html</link>
+     <title>Ashbridge Roofing</title>
+     <description>Ashbridge Roofing</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.ashbridgeroofing.co.uk/contact-us.html</link>
+     <title>Ashbridge Roofing - Contact us</title>
+     <description>Here you can find our contact details so you can get in touch with us. We look forward to hearing from you.</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
